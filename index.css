@@ -227,9 +227,8 @@ html, body {
 
 .payment-menu {
     position: absolute;
-    top: 55%;
-    left: 28.6%;
-    align-items: center;
+    margin-top: 9em;
+    align-items:center;
     text-align: center;
     flex-direction: column;
     background: white;
